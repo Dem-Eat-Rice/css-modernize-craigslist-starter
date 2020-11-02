@@ -44,9 +44,14 @@ a {
 
 ul {
   padding: 0px;
-} 
+}
 
 ul>li{
   list-style: none;
-} 
+}
 
+a:hover,
+a > span:hover{
+  color: #800080;
+  font-weight: bold;
+}
