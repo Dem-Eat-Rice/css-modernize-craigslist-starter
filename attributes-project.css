@@ -76,3 +76,18 @@ footer{
 #rightbar{
   width: 25%;
 }
+
+#center{
+  width: 50%;
+  border: 1px solid #464646;
+  border-radius: 10px;
+}
+
+#center > div{
+  float: left;
+  width: 33%;
+}
+
+#topban h2{
+  text-align: center;
+}
